@@ -1,6 +1,6 @@
-# Research Code
+# Regarding this Repository
 
-Most of my current research code is maintained privately while papers and related projects are under active development. My work focuses on machine learning, large language models, adversarial robustness, privacy-preserving NLP, model evaluation, model fusion, and applied AI for sensitive domains.
+The majority of the content on this github consists of course projects. Most of my previous and current research code is maintained privately while papers and related projects are under active development. My work focuses on machine learning, large language models, adversarial robustness, privacy-preserving NLP, model evaluation, model fusion, and applied AI for sensitive domains.
 
 My current research interests include:
 
